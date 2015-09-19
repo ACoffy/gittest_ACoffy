@@ -1,2 +1,7 @@
 Blah...Blah...Blah
+<<<<<<< HEAD
 Fail
+=======
+
+You suck
+>>>>>>> e61de75366839ed3f46c5b6be0f4b57087471ffd
